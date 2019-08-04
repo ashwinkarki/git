@@ -60,8 +60,9 @@ clear
 
 //to reset to previous code
 git reset HEAD file
+git reset HEAD --hard
 
-
-
+//to rename a file
+git mv oldfilename.txt newfilename.txt
 
 
