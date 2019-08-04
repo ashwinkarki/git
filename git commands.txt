@@ -53,6 +53,14 @@ cd ..
 git init (.git file will be created)
 
 
+//to clear the screen
+clear
+
+//to fork is to get the copy of project of someone's project
+
+//to reset to previous code
+git reset HEAD file
+
 
 
 
