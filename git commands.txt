@@ -1,3 +1,6 @@
+//dummy html5,css,bootstrap file
+http://www.initializr.com/
+
 //to check git version
 git version
 
@@ -33,11 +36,21 @@ git init porject_name (it will create a new project,we donot need to use github)
 //to list all files inside directoty
 ls
 
+//to remove folder from git
+rm -rf project-name
+
+//to rename the project folder
+mv old-project-name new-project-name
+
 //to list all hidden files inside directory
 ls -al
 
 //to go back from a folder to back folder
 cd ..
+
+
+//The process of making any non git project to git project 
+git init (.git file will be created)
 
 
 
