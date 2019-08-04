@@ -1,0 +1,16 @@
+//to see which branch we are in  branch
+git branch -a
+
+//to create newbranch
+git branch branch_name
+
+//to switch branch
+git checkout branch_name
+
+//to rename a branch
+git branch -m oldbranch newbranch
+
+//delete a branch
+git branch -d newbranch
+
+

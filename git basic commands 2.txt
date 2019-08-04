@@ -12,3 +12,10 @@ git diff
 
 //to see in UI
 git difftool
+
+after typing git diff we see red and green + sign.So red means old code and green means new code.
+
+
+//comparison between two branches
+git difftool master orgin/master
+

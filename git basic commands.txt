@@ -77,5 +77,8 @@ git reset HEAD filename
 //to see all the logs of commit
 git log
 
+//to see the logs in line
+git log --oneline
+
 
 
