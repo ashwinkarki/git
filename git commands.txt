@@ -65,4 +65,15 @@ git reset HEAD --hard
 //to rename a file
 git mv oldfilename.txt newfilename.txt
 
+//remocing  a file(not git command windows command)
+rm doom.txt
+
+// if its already pushed in github removing is
+git rm filename
+
+//restoring deleted files
+git reset HEAD filename
+
+
+
 
