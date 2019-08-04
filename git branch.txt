@@ -13,4 +13,12 @@ git branch -m oldbranch newbranch
 //delete a branch
 git branch -d newbranch
 
+//to compare two branches whether conflic ocmes or not
+git diff branch1 branch2
+
+//checkout to master branch and merge
+git merge sub_branch_name
+
+
+
 
