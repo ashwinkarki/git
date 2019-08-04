@@ -1,0 +1,46 @@
+//to check git version
+git version
+
+//first we need to config the git
+ git config --global user.name "ashwinkarki"
+ git config --global user.email "ashwin.karki123@yahoo.com"
+ git config --global --list
+
+
+//to clone the project
+git clone http of project.git
+
+ //to check the files which are changed
+git status
+
+//to create a new file and check the name 
+echo "Create new file" >> start.txt
+ls
+
+//to see content of file
+cat start.txt
+
+
+//to add the new files in git
+git add --all
+git commit -m "going to add"
+git push origin master (master is default branch name)
+
+
+// to initilaize the new project (not from github)
+git init porject_name (it will create a new project,we donot need to use github)
+
+//to list all files inside directoty
+ls
+
+//to list all hidden files inside directory
+ls -al
+
+//to go back from a folder to back folder
+cd ..
+
+
+
+
+
+
