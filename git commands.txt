@@ -74,6 +74,8 @@ git rm filename
 //restoring deleted files
 git reset HEAD filename
 
+//to see all the logs of commit
+git log
 
 
 
