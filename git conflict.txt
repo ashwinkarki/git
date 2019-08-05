@@ -1,0 +1,5 @@
+//conflcit arises if two branches uses same file so
+git mergetool
+
+//merge tool shows which is the correct code among various branches.So choose which u like
+
